@@ -1,0 +1,24 @@
+{
+  "name": "express-mysql-knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -w index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Waixi00008/mysql-knex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waixi00008/mysql-knex/issues"
+  },
+  "homepage": "https://github.com/Waixi00008/mysql-knex#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.17.6"
+  }
+}
