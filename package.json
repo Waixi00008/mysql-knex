@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Waixi00008/mysql-knex#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "knex": "^0.17.6"
   }
 }
